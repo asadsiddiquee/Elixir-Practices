@@ -18,4 +18,4 @@ So the ***First Goal*** of this Repo is to Practice minimum 100 Exercises on Eli
 ***Fourth***, it will give me boost and motivation about my progress.
  
 
-***After Completition of minimum 100 Elixir Exercises i will create another repo for Phoenix Practices. Then, I will continue practising in both repo***
+***After Completion of minimum 100 Elixir Exercises i will create another repo for Phoenix Practices. Then, I will continue practising in both repo***
