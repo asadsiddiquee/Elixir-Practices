@@ -19,3 +19,21 @@ So the ***First Goal*** of this Repo is to Practice minimum 100 Exercises on Eli
  
 
 ***After Completion of minimum 100 Elixir Exercises i will create another repo for Phoenix Practices. Then, I will continue practising in both repo***
+
+# List of Exercises
+
+1. head and tail recursion printing (decrease number)
+            HeadTailRecursion.uptoTail(YOUR NUMBER)  // Call tail recursion
+            HeadTailRecursion.uptoHead(YOUR NUMBER)  // Call head recursion
+
+2. Recursive function to find sum of a number
+RecursionSum.sum(Your number) // fn(3) -> 1+2+3 -> 6
+
+3. Tail Recursive function to find sum of a number
+TailRecursionSum.sum(Your number, acc \\ 0) // fn(3) -> 1+2+3 -> 6
+
+4. Create function to Find Factorial of a Number with recursion
+FactorialRecursion.factorial(Your number) // FactorialRecursion.factorial(3) ->  3*2*1 -> 6 
+
+5. Create function to Find Factorial of a Number with tail recursion
+ FactorialTailRecursion.factorial(Your Number, acc \\ 0 ) //  FactorialTailRecursion.factorial(3) -> 3*2*1 -> 6
